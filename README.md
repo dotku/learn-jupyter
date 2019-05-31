@@ -16,6 +16,23 @@ $$
 
 for more samples, please checkout my "first tiral.ipynb" file.
 
+## Usage
+
+```
+# install jupyter
+python3 -m pip install --upgrade pip
+python3 -m pip install jupyter
+
+# If you have Python 2 installed:
+
+python -m pip install --upgrade pip
+python -m pip install jupyter
+
+# run jupyter nodebook
+jupyter notebook
+```
+
+
 ## Credit
 
 - https://www.youtube.com/watch?v=HW29067qVWk
