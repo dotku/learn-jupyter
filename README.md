@@ -4,7 +4,7 @@ Jupyter is a powerful note book program for data related work. It can used for p
 
 Here is one of the examples.
 
-![math equation](./WX20190530-222024@2x.png | width=200)
+<img src="./WX20190530-222024@2x.png" width=480 />
 
 It could be express by the follow string on markdown cell block.
 
