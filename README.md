@@ -15,3 +15,8 @@ $$
 ```
 
 for more samples, please checkout my "first tiral.ipynb" file.
+
+## Credit
+
+- https://www.youtube.com/watch?v=HW29067qVWk
+- https://github.com/ipython/ipython
